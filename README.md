@@ -9,4 +9,4 @@ TECHNOLOGIES USED:
 HTML: Structures the content and layout of the webpage.
 CSS: Styles the webpage, enhancing its visual appeal and ensuring a responsive design.
 
-TRAVEL LANDING PAGE-https : //madhu-mitha19.github.io/Landing-page/
+TRAVEL LANDING PAGE-https : [](https://madhu-mitha19.github.io/Landing-page/)
