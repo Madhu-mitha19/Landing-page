@@ -1,6 +1,5 @@
-TRAVEL LANDING PAGE:    [](       
-https://madhu-mitha19.github.io/Landing-page/
-)
+TRAVEL LANDING PAGE:   
+            https://madhu-mitha19.github.io/Landing-page/
 
 Welcome to Travel Moments! This project is a landing page designed to inspire and guide travelers through various travel destinations.
 It offers tips, guides, and insider information to enhance your travel experiences.
